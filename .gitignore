@@ -1,0 +1,21 @@
+# Qt build artifacts
+build/
+build-*/
+*.user
+*.pro.user
+Makefile
+Makefile.*
+
+# Compiled Object files
+*.o
+*.obj
+*.exe
+*.dll
+
+# Debug/Run files
+*.pdb
+*.ilk
+
+# OS specific
+.DS_Store
+Thumbs.db
